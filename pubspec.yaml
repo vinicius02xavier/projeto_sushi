@@ -7,6 +7,7 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
+  provider: ^5.0.0
   flutter:
     sdk: flutter
 
@@ -17,17 +18,39 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
+  assets: 
+  - Images/logojapa.png.png
+  - Images/sashimi.png
+  - Images/temaki.png
+  - Images/yakissoba.png
+  - Images/bebidas.png
+  - Images/avatar.png
+  - Images/combinado01.jpeg
+  - Images/combinado02.jpeg
+  - Images/combinado03.jpeg
+  - Images/combinado04.jpeg
+  - Images/kanimaki.jpeg
+  - Images/kapamaki.jpeg
+  - Images/sakemaki.jpeg
+  - Images/temaki_grelhado.jpeg
+  - Images/temaki_frito.jpeg
+  - Images/temaki_salmao.jpeg
+  - Images/sashimi_salmao.jpeg
+  - Images/sashimi_branco.jpeg
+  - Images/niguiri_salmao.jpeg
+  - Images/niguiri_camarao.jpeg
+  - Images/niguiri_branco.jpeg
+  - Images/yakissoba_misto.jpeg
+  - Images/yakissoba_frango.jpeg
+  - Images/yakissoba_carne.jpeg
+  - Images/gohan.jpeg
+  - Images/tempura.jpeg
+  - Images/banana.jpeg
+  - Images/goiabada.jpeg
+  - Images/guarana.png
+  - Images/coca_cola.png
+  - Images/h2o.jpeg
+  - Images/agua01.jpeg
+  - Images/agua02.jpeg
+  - Images/suco_uva.jpeg
+  - Images/suco_maracuja.jpeg
