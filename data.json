@@ -1,0 +1,229 @@
+{
+  "produtos": [
+    {
+      "categoria": "bebidas",
+      "descricao": "ÁGUA S/ GÁS 500ML",
+      "id": "1",
+      "imagemPath": "Images/agua01.jpeg",
+      "nome": "Água sem gás",
+      "valor": 5
+    },
+    {
+      "categoria": "bebidas",
+      "descricao": "ÁGUA C/ GÁS 500ML",
+      "id": "2",
+      "imagemPath": "Images/agua02.jpeg",
+      "nome": "Água com gás",
+      "valor": 5
+    },
+    {
+      "categoria": "bebidas",
+      "descricao": "COCA COLA LATA 350mL",
+      "id": "3",
+      "imagemPath": "Images/coca_cola.png",
+      "nome": "COCA COLA LATA 350 ML",
+      "valor": 6.5
+    },
+    
+    {
+      "categoria": "bebidas",
+      "descricao": "GUARANÁ LATA 350mL",
+      "id": "4",
+      "imagemPath": "Images/guarana.png",
+      "nome": "GUARANÁ LATA 350 ML",
+      "valor": 6.5
+    },
+    {
+      "categoria": "bebidas",
+      "descricao": "SUCO DEL VALE MARACUJA 290 ML (LATA)",
+      "id": "5",
+      "imagemPath": "Images/suco_maracuja.jpeg",
+      "nome": "SUCO DEL VALE MARACUJA 290 ML (LATA)",
+      "valor": 7
+    },
+    {
+      "categoria": "bebidas",
+      "descricao": "SUCO DEL VALE UVA 290 ML (LATA)",
+      "id": "6",
+      "imagemPath": "Images/suco_uva.jpeg",
+      "nome": "SUCO DEL VALE UVA 290 ML (LATA)",
+      "valor": 7
+    },
+    {
+      "categoria": "pratosQuentes",
+      "descricao": "TÍPICO MACARRÃO JAPONÊS COM CARNE E LEGUMES.",
+      "id": "7",
+      "imagemPath": "Images/yakissoba_carne.jpeg",
+      "nome": "YAKISSOBA DE CARNE | INDIVIDUAL",
+      "valor": 25
+    },
+    {
+      "categoria": "pratosQuentes",
+      "descricao": "ARROZ BRANCO TIPO JAPONÊS.",
+      "id": "8",
+      "imagemPath": "Images/gohan.jpeg",
+      "nome": "GOHAN",
+      "valor": 10
+    },
+    {
+      "categoria": "pratosQuentes",
+      "descricao": "TÍPICO MACARRÃO JAPONÊS COM FRANGO E LEGUMES.",
+      "id": "9",
+      "imagemPath": "Images/yakissoba_frango.jpeg",
+      "nome": "YAKISSOBA DE FRANGO | INDIVIDUAL",
+      "valor": 22.99
+    },
+    {
+      "categoria": "pratosQuentes",
+      "descricao": "TÍPICO MACARRÃO JAPONÊS COM CARNE, FRANGO E LEGUMES.",
+      "id": "10",
+      "imagemPath": "Images/yakissoba_misto.jpeg",
+      "nome": "YAKISSOBA MISTO | INDIVIDUAL",
+      "valor": 24
+    },
+    {
+      "categoria": "pratosQuentes",
+      "descricao": "LEGUMES EMPANADOS E FRITOS.",
+      "id": "11",
+      "imagemPath": "Images/tempura.jpeg",
+      "nome": "TEMPURÁ DE LEGUMES",
+      "valor": 32
+    },
+    {
+      "categoria": "combinados",
+      "descricao": "1 PORÇÃO CEVICHE, 1 PORÇÃO SUNOMONO, 10 SASHIMI SALMÃO, 5 SASHIMI PEIXE BRANCO, 8 SAKEMAKI, 4 NIGUIRI MISTO, 4 JOE SALMÃO, 5 SKIN, 5 SHAKE ESPECIAL, 5 HOT SALMÃO, 4 FRY CHEESE, 2 YAKISSOBA MISTO",
+      "id": "12",
+      "imagemPath": "Images/combinado01.jpeg",
+      "nome": "COMBINADO 1",
+      "valor": 120
+    },
+    {
+      "categoria": "combinados",
+      "descricao": "20 SASHIMI, 10 NIGUIRI, 10 ACELGA, 20 URAMAKI, 10 HOT SKIN, 16 SAKEMAKI, 4 JOE DE SALMÃO",
+      "id": "13",
+      "imagemPath": "Images/combinado02.jpeg",
+      "nome": "COMBINADO 2 (90 unidades)",
+      "valor": 140
+    },
+    {
+      "categoria": "combinados",
+      "descricao": "5 FRY CHEESE, 5 HOT SALMÃO, 10 HOT SKIN, 10 HOT ROLL",
+      "id": "14",
+      "imagemPath": "Images/combinado03.jpeg",
+      "nome": "COMBINADO 3 (30 unidades)",
+      "valor": 60
+    },
+    {
+      "categoria": "combinados",
+      "descricao": "8 SASHIMI, 6 NIGUIRI, 16 SAKEMAKI, 10 SHAKE ESPECIAL, 10 HOT SKIN, 4 JOE",
+      "id": "15",
+      "imagemPath": "Images/combinado04.jpeg",
+      "nome": "COMBINADO 4 (54 unidades)",
+      "valor": 85
+    },
+    {
+      "categoria": "temaki",
+      "descricao": "ARROZ, SALMÃO GRELHADO E CREAM CHEESE",
+      "id": "17",
+      "imagemPath": "Images/temaki_grelhado.jpeg",
+      "nome": "TEMAKI DE SALMÃO GRELHADO",
+      "valor": 25
+    },
+    {
+      "categoria": "temaki",
+      "descricao": "ARROZ E SALMÃO GRELHADO, CREAM CHEESE, EMPANADO E FRITO.",
+      "id": "18",
+      "imagemPath": "Images/temaki_frito.jpeg",
+      "nome": "TEMAKI FRITO",
+      "valor": 25
+    },
+    {
+      "categoria": "temaki",
+      "descricao": "ARROZ E SALMÃO BATIDO COM CEBOLINHA",
+      "id": "19",
+      "imagemPath": "Images/temaki_salmao.jpeg",
+      "nome": "TEMAKI DE SALMÃO",
+      "valor": 26.99
+    },
+    {
+      "categoria": "sobremesas",
+      "descricao": "BANANA EMPANADA E FRITA COM LEITE CONDENSADO",
+      "id": "20",
+      "imagemPath": "Images/banana.jpeg",
+      "nome": "HOT BANANA C/ LEITE CONDENSADO (10 UNID)",
+      "valor": 23
+    },
+    {
+      "categoria": "sobremesas",
+      "descricao": "GOIABADA ENVOLTO COM CREAM CHEESE, NUTELLA E LEITE CONDENSADO.",
+      "id": "21",
+      "imagemPath": "Images/goiabada.jpeg",
+      "nome": "JOE DE GOIABADA (6 UNID)",
+      "valor": 16
+    },
+    {
+      "categoria": "sashimi",
+      "descricao": "FATIAS DE SALMÃO CRU",
+      "id": "22",
+      "imagemPath": "Images/sashimi_salmao.jpeg",
+      "nome": "SALMÃO (8 unidades)",
+      "valor": 35
+    },
+    {
+      "categoria": "sashimi",
+      "descricao": "FATIAS FINAS DE PEIXE CRU",
+      "id": "23",
+      "imagemPath": "Images/sashimi_branco.jpeg",
+      "nome": "PEIXE BRANCO (8 unidades)",
+      "valor": 32
+    },
+    {
+      "categoria": "niguiri",
+      "descricao": "ARROZ COM SALMÃO CRU",
+      "id": "24",
+      "imagemPath": "Images/niguiri_salmao.jpeg",
+      "nome": "NIGUIRI DE SALMÃO (4 unidades)",
+      "valor": 14.99
+    },
+    {
+      "categoria": "niguiri",
+      "descricao": "ARROZ COM CAMARÃO",
+      "id": "25",
+      "imagemPath": "Images/niguiri_camarao.jpeg",
+      "nome": "NIGUIRI DE CAMARÃO (4 unidades)",
+      "valor": 20
+    },
+    {
+      "categoria": "niguiri",
+      "descricao": "ARROZ COM PEIXE BRANCO CRU",
+      "id": "26",
+      "imagemPath": "Images/niguiri_branco.jpeg",
+      "nome": "NIGUIRI DE PEIXE BRANCO (4 UNIDADES)",
+      "valor": 18
+    },
+    {
+      "categoria": "hossomaki",
+      "descricao": "Pepino",
+      "id": "27",
+      "imagemPath": "Images/kapamaki.jpeg",
+      "nome": "KAPAMAKI (8 unidades)",
+      "valor": 13
+    },
+    {
+      "categoria": "hossomaki",
+      "descricao": "KANI",
+      "id": "28",
+      "imagemPath": "Images/kanimaki.jpeg",
+      "nome": "KANIMAKI (8 unidades)",
+      "valor": 14
+    },
+    {
+      "categoria": "hossomaki",
+      "descricao": "SALMÃO",
+      "id": "29",
+      "imagemPath": "Images/sakemaki.jpeg",
+      "nome": "SAKEMAKI (8 unidades)",
+      "valor": 14
+    }
+  ]
+}

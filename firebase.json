@@ -1,0 +1,27 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sushi-delivery-ba591",
+          "appId": "1:106788598563:android:cfdbfa128a93146bae1296",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sushi-delivery-ba591",
+          "configurations": {
+            "android": "1:106788598563:android:cfdbfa128a93146bae1296",
+            "ios": "1:106788598563:ios:f42d5a7f5a50caf3ae1296",
+            "web": "1:106788598563:web:668cc3560916fd15ae1296"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

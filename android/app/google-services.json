@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106788598563",
+    "project_id": "sushi-delivery-ba591",
+    "storage_bucket": "sushi-delivery-ba591.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106788598563:android:cfdbfa128a93146bae1296",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdk_0Pnuvw2AfsP1pBmInlgGk_LxtTkdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
